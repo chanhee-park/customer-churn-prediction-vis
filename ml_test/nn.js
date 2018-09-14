@@ -1,3 +1,10 @@
+/**
+ train : { error: 0.13800386938587228, iterations: 1000, time: 17797 }
+ test  : { tp: 244, fn: 116, fp: 340, tn: 1413 }
+    accuracy    :  0.7841930903928065
+    precision   :  0.4178082191780822
+    recall      :  0.6777777777777778
+ */
 // npm install synaptic
 const _ = require('lodash');
 const fs = require('fs');
